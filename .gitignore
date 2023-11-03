@@ -1,0 +1,8 @@
+.vscode
+.idea
+*.exe
+/datagen
+/sing-box*
+*.json
+/test
+*.db
